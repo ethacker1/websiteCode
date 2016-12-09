@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mommy Madness</title>
+    <link href="../main.css" type="text/css" rel="stylesheet"/>
+
+
+</head>
+
+
+<!--
+     Link to Pinterest Boards for each page.
+                -->
+
+
+<body>
+    <header>
+        <nav>
+            <h1> Welcome to Mommy Madness</h1>
+            <ul>
+                <li class="parentMenu"><a href="mmHome.html">Home</a>
+                    <ul class="sub-menu">
+                        <li><a href="mmAbout.html">About</a></li>
+                        <li><a href="mmContact.html">Contact</a></li>
+                    </ul>
+                </li>
+
+                <li class="parentMenu"><a href="../PregnancyPages/preg.html">Pregnancy</a>
+                    <!--
+                    Gender Predictions:
+                    Old Wive's Tale
+                    Boy vs Girl- The Ramzi Method
+                    -->
+                    <ul class="sub-menu">
+                        <li><a href="../PregnancyPages/pregAdvice.html">Advice</a></li>
+                        <li><a href="../PregnancyPages/pregGenderPredictions.html">Gender Predictions</a></li>
+                        <li><a href="../PregnancyPages/pregTTC.html">Trying To Conceive</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../AllAboutBaby/AllAboutBaby.html">All About Baby</a>
+                    <ul class="sub-menu">
+                        <li><a href="../AllAboutBaby/aabFetalDev.html">Fetal Development</a></li>
+                        <li><a href="../AllAboutBaby/aabGuidelines.html">Guidelines </a> </li>
+                        <li><a href="../AllAboutBaby/aabMilestones.html"> Milestones</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../PartyMomma/PartyMomma.html">Party Momma</a>
+                    <!--
+                    Birthdays - Link to 1-10th bdays.
+                    -->
+                    <ul class="sub-menu">
+                        <li><a href="../PartyMomma/pmPregAnn.html">Pregnancy Announcement</a></li>
+                        <li><a href="../PartyMomma/pmGenderReveal.html">Gender Reveal</a></li>
+                        <li><a href="../PartyMomma/pmBabyShower.html">Baby Shower</a></li>
+                        <li><a href="../PartyMomma/pmBirthAnn.html">Birth Announcement</a></li>
+                        <li><a href="../PartyMomma/pmBirthdays.html"> Birthdays</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../Stations/Stations.html">Stations</a>
+                    <ul class="sub-menu">
+                        <li><a href="../Stations/sHospitalBag.html">Hospital Bag</a></li>
+                        <li><a href="../Stations/sDiaperBag.html">Diaper Bag</a></li>
+                        <li><a href="../Stations/sChangingStation.html">Changing Station</a></li>
+                        <li><a href="../Stations/sBabyGear.html">Baby Gear</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../MemoryMarkers/memoryMarkers.html">Memory Markers</a>
+                    <!--
+                    Drop Down Menu:
+                    DIY
+                    Purchases
+                    (Both to have holiday/event selectors on right of page)
+                    -->
+                    <ul class="sub-menu">
+                        <li><a href="../MemoryMarkers/memDIY.html">DIY</a></li>
+                        <li><a href="../MemoryMarkers/memPurchase.html">Purchases</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../Reviews/Reviews.html">Reviews</a>
+                    <ul class="sub-menu">
+                        <li><a href="../Reviews/Games.html">Games</a></li>
+                        <li><a href="../Reviews/Gear.html">Gear</a></li>
+                        <li><a href="../Reviews/Learning.html">Learning</a></li>
+                    </ul>
+                </li>
+                <li class="parentMenu"><a href="../Blog/mmBlog.html">Blog</a>
+                    <ul class="sub-menu">
+                        <li>Fit Momma</li>
+                        <li>Minimal Momma</li>
+                        <li>Modern Momma</li>
+                        <li>Organic Momma</li>
+                        <li>Organizing Queen</li>
+                        <li>Savings Savvy</li>
+                        <li>Tech Savvy</li>
+                        <li>Traditional Momma</li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="panels">
+        <div class="section" id="home">
+            <h4>Welcome</h4>
+            <p>This is the home page.</p>
+            <p>more home stuff</p>
+            <p>welcome</p>
+        </div>
+
+        <div class="section" id="about">
+            <h4> The Mommy Behind the Madness</h4>
+            <p>This is the about me.</p>
+        </div>
+
+        <div class="section">
+            <p>Some section</p>
+        </div>
+    </div>
+
+
+
+
+
+<script></script>
+</body>
+
+</html>
